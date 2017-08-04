@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SecureVault</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="title_activity_file_browser">FileBrowser</string>
+    <string name="title_activity_foulder_selector">FoulderSelector</string>
+</resources>
